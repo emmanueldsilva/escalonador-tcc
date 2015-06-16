@@ -31,6 +31,8 @@ nbproject
 .idea
 .project
 .settings
+.classpath
 composer.lock
 
 
+/bin
